@@ -1,4 +1,4 @@
-# Hi, I'm Chandrashekar Garigapati 👋
+# Hi, I'm Chandu 👋
 
 **AI Engineer** building production AI systems — RAG pipelines, local LLMs, and multi-agent systems.
 
